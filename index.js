@@ -45,3 +45,6 @@ document.getElementById("new-post").addEventListener("submit", function(e) {
             document.getElementById("new-post").reset()
         })
 })
+
+
+
